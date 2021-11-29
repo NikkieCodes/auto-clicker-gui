@@ -1,6 +1,6 @@
 {
-    "click_limit": 25,
-    "click_interval": 0.02,
-    "mouse_x": -1010,
-    "mouse_y": 526
+    "click_limit": 100,
+    "click_interval": 1,
+    "mouse_x": 0,
+    "mouse_y": 0
 }
